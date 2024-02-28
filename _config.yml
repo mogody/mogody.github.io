@@ -102,5 +102,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@gitee.com:wh469012917/blogs.git
+  repo: git@github.com:mogody/mogody.github.io.git
   branch: main
+
+beian:
+    enable: true
+    icp: '闽ICP备14021366号-6'
